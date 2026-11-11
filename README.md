@@ -26,7 +26,7 @@ Open `index.html` in a browser. The site uses no build tools or JavaScript. Goog
 - Headings, paragraphs, hyperlinks, ordered and unordered lists, a profile image, data table, contact form and input fields
 - External stylesheet, CSS classes and ID selectors, spacing, borders, hover effects, CSS Grid/Flexbox and mobile breakpoints
 - Three project entries with links: Kenya House Listings, GiftNest and Faith Connect
-- Slate and cyan color palette with off-white headings and muted gray body text
+- Midnight slate foundation with bright cyan, emerald, lime and coral accents
 
 ## Before submission
 
