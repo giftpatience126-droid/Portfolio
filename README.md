@@ -43,3 +43,11 @@ Open `index.html` in a browser. The site uses no build tools or JavaScript. Goog
 ## Screenshots
 
 Capture the finished homepage at desktop and mobile widths after replacing the placeholder personal details. Save the images in a `screenshots/` folder if your instructor expects screenshots in the repository.
+
+## Final review before submission
+
+- Replace every personal placeholder and confirm the email links point to your inbox.
+- Open every navigation link and verify that the portrait file loads.
+- Check the page at a wide desktop width and a narrow phone width; capture both views for the assignment.
+- Validate the HTML and CSS, then confirm the GitHub Pages URL from repository settings after deployment.
+
