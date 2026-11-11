@@ -4,3 +4,24 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{transition:none!important}}
 .learning-path{display:flex;align-items:center;gap:24px;padding-top:22px}.learning-path .eyebrow{margin:0;white-space:nowrap}.learning-path ol{display:flex;gap:28px;margin:0;padding-left:18px;color:#65685f;font-size:11px}.learning-path li{padding-left:2px}
 @media(max-width:560px){.learning-path{display:block}.learning-path .eyebrow{margin-bottom:10px}.learning-path ol{display:block;padding-left:20px}.learning-path li{margin:5px 0}}
+
+/* Patience's midnight slate and electric cyan theme */
+:root{--paper:#0F172A;--ink:#F8FAFC;--muted:#94A3B8;--line:#334155;--green:#38BDF8;--lime:#1E293B;--orange:#10B981;--white:#F8FAFC}
+body{background:#0F172A;color:#F8FAFC}
+.site-header{background:rgba(15,23,42,.94);border-bottom-color:#1E293B}
+.brand-mark{border-color:#64748B}.brand-dot,.nav-links a:hover,.text-link:hover,.back-top:hover,.email-link span{color:#38BDF8}
+.nav-links a,.eyebrow,.section-aside,.hero-lede,.about-copy p,.about-copy strong,.snapshot-copy,.contact-copy>p:not(.eyebrow){color:#94A3B8}
+.nav-cta{border-color:#334155;color:#F8FAFC}.nav-cta:hover{background:#1E293B;color:#38BDF8;border-color:#38BDF8}
+.status-dot{background:#10B981;box-shadow:0 0 0 4px rgba(16,185,129,.15)}
+.serif-accent{color:#38BDF8}.hero-lede strong{color:#F8FAFC}
+.portrait-frame{background:#1E293B}.portrait-frame:before{border-color:rgba(248,250,252,.3)}.portrait-tag{color:#F8FAFC}
+.floating-note{background:#1E293B;color:#F8FAFC;border:1px solid #38BDF8}.note-star,.scroll-cue span{color:#10B981}.scroll-cue,.hero-index,.hero-meta{color:#94A3B8}
+.button-dark{background:#38BDF8;color:#0F172A}.button-dark:hover{background:#10B981;color:#0F172A}
+.about,.snapshot{background:#111c31}.education-rule,.education-item{border-color:#334155}.education-rule{background:#334155}.edu-year,.edu-status,.education-item p{color:#94A3B8}.edu-status{border-color:#475569}
+.skills,.contact{background:#0F172A}.skills-grid{border-color:#334155}.skill-card{border-color:#334155}.skill-icon{border-color:#475569;color:#38BDF8}.skill-number,.skill-level,.skill-card p{color:#94A3B8}.skill-note{background:#1E293B}.skill-note p{color:#F8FAFC}.skill-note p span{color:#38BDF8}
+.projects{background:#0b1220;color:#F8FAFC}.projects .eyebrow,.projects .section-aside{color:#94A3B8}.projects .serif-accent{color:#38BDF8}.project-card{background:#1E293B;border-color:#334155}.project-info p{color:#CBD5E1}.project-topline,.project-footnote{color:#94A3B8}.tag-list li{border-color:#475569;color:#BAE6FD}.project-link{border-color:#38BDF8;color:#38BDF8}.project-link:hover{background:#38BDF8;color:#0F172A}
+.project-art{background:#1E293B}.art-one,.art-two,.art-three{background:#1E293B}.art-label,.art-caption{color:#94A3B8}.art-calendar,.art-journal,.art-study{background:#0F172A;color:#F8FAFC;border:1px solid #334155}.art-calendar>span:first-child,.art-journal>span:first-child,.art-study>span:first-child{color:#94A3B8}.art-calendar strong,.art-journal strong,.art-study strong{color:#F8FAFC}.art-journal em{color:#38BDF8}.art-calendar .art-arrow,.art-study strong span{color:#10B981}.journal-line{background:#334155}.study-bars i{background:#38BDF8}.study-bars i:nth-child(3n){background:#10B981}
+th,td{border-color:#334155}th{color:#94A3B8}td{color:#F8FAFC}td a{color:#38BDF8}.table-wrap{border-color:#334155}
+.contact-form{background:#1E293B}.contact-form .eyebrow,.form-note{color:#94A3B8}.contact-form label{color:#E2E8F0}.contact-form input,.contact-form textarea{background:#0F172A;border-color:#475569;color:#F8FAFC}.contact-form input::placeholder,.contact-form textarea::placeholder{color:#64748B}.contact-form input:focus,.contact-form textarea:focus{border-color:#38BDF8;box-shadow:0 0 0 2px rgba(56,189,248,.2)}.email-link{color:#F8FAFC;border-color:#38BDF8}.contact-hint{color:#94A3B8!important}
+.social-links{display:flex;flex-wrap:wrap;gap:10px;margin-top:28px}.social-links a{padding:9px 12px;border:1px solid #334155;border-radius:3px;color:#BAE6FD;text-decoration:none;font-size:11px;transition:background .2s,color .2s,border .2s}.social-links a:hover{background:#1E293B;color:#38BDF8;border-color:#38BDF8}
+.site-footer{border-color:#1E293B;background:#0b1220}.footer-inner p,.back-top,.copyright{color:#94A3B8}
